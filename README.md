@@ -1,5 +1,7 @@
 # Email Sending Application
 
+## Hosted Link - [Click here](https://emailsender-j9rw.onrender.com/)
+
 ## Overview
 This is a simple Node.js application that allows users to send emails using a form. The application uses the Nodemailer library to send emails and the Express.js framework to handle HTTP requests.
 
